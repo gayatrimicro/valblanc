@@ -16,6 +16,7 @@
     <meta property="og:title" content="Optical Brightener Manufacturers - United Specialities (Valblanc)" >
     <meta property="og:description"  content="United Specialities (P) Ltd or Valblance is amongst the largest manufactures of polyester Fluorescent Whitening Agents (FWAs) in India. We offer a wide range of Optical Brightening Agents for the textile industry and are always striving towards improving our manufacturing processes and technology">
     <!-- Open Graph data -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
@@ -108,6 +109,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="form-group">
                 <select class="form-control" id="fcountry" name="fcountry" required>
+
+                  <option value="0">Select Country</option>
                   <option value="Afganistan">Afghanistan</option>
                    <option value="Albania">Albania</option>
                    <option value="Algeria">Algeria</option>
@@ -360,7 +363,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <textarea class="form-control" rows="4" id="fmessage" name="fmessage" placeholder="Message *" required></textarea>
               </div>
               <div class="form-group text-center">
-                <button class="btn_snd">Send Message</button>
+                <button type="submit" class="btn_snd">Send Message</button>
               </div>
             </form>
           </div>
@@ -634,8 +637,9 @@ $(document).ready(function() {
       event.preventDefault();
       var formdata = $('#frm_inq').serialize();
       // alert(formdata);
-
-        if ($('#fname').val() != "" && $('#femail').val() != "" && $('#fcompany').val() != "" && $('#fnumber').val() != "" && $('#fcountry').val() != "" && $('#fmessage').val() != "") {
+       var e = document.getElementById("fcountry");
+      var country = e.options[e.selectedIndex].value;
+        if ($('#fname').val() != "" && $('#femail').val() != "" && $('#fcompany').val() != "" && $('#fnumber').val() != "" && country != 0 && $('#fmessage').val() != "") {
             
              $.ajax({
                               url:'request.php',
@@ -645,7 +649,8 @@ $(document).ready(function() {
                                 
                                   
                                   alert("Your enquiry has been sent successfully");
-                                  $("#fname, #femail, #fcompany, #fnumber, #fcountry, #fmessage").val("");
+                                  $("#fname, #femail, #fcompany, #fnumber, #fmessage").val("");
+                                  e.selectedIndex = 0;
                               }
                     });
 

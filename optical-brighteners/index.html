@@ -93,30 +93,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="modal-body">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <div class="inner_enqfrm">
-            <form>
+            <form id="frm_inq">
               <div class="form-group">
-                <input type="text" class="form-control" name="" placeholder="Name *" required>
+                <input type="text" class="form-control" id="fname" name="fname" placeholder="Name *" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="" placeholder="Email *" required>
+                <input type="text" class="form-control" id="femail" name="femail" placeholder="Email *" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="" placeholder="Company *" required>
+                <input type="text" class="form-control" id="fcompany" name="fcompany" placeholder="Company *" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="" placeholder="Mobile *" required>
+                <input type="text" class="form-control" id="fnumber" name="fnumber" placeholder="Mobile *" required>
               </div>
               <div class="form-group">
-                <select class="form-control" required>
-                  <option>Please Select Country *</option>
-                  <option>Afghanistan</option>
-                  <option>Us</option>
-                  <option>UK</option>
-                  <option>India</option>
+                <select class="form-control" id="fcountry" name="fcountry" required>
+                  <option value="">Please Select Country *</option>
+                  <option value="Afghanistan">Afghanistan</option>
+                  <option value="Us">Us</option>
+                  <option value="UK">UK</option>
+                  <option value="India">India</option>
                 </select>
               </div>
               <div class="form-group">
-                <textarea class="form-control" rows="4" placeholder="Message *" required></textarea>
+                <textarea class="form-control" rows="4" id="fmessage" name="fmessage" placeholder="Message *" required></textarea>
               </div>
               <div class="form-group text-center">
                 <button class="btn_snd">Send Message</button>
@@ -387,5 +387,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <script src='../assets/js/bootstrape.js' type='text/javascript'></script> 
       <script src='../assets/js/jquery-ui.min.js' type='text/javascript'></script> 
       <script src='../assets/js/slick.min.js' type='text/javascript'></script>
+      <script>
+$(document).ready(function() { 
+    $('#frm_inq').submit(function(event) {
+      event.preventDefault();
+      var formdata = $('#frm_inq').serialize();
+      // alert(formdata);
+
+        if ($('#fname').val() != "" && $('#femail').val() != "" && $('#fcompany').val() != "" && $('#fnumber').val() != "" && $('#fcountry').val() != "" && $('#fmessage').val() != "") {
+            
+             $.ajax({
+                              url:'request.php',
+                              type:'POST',
+                              data:formdata,
+                              success:function(result){
+                                
+                                  
+                                  alert("Your enquiry has been sent successfully");
+                                  $("#fname, #femail, #fcompany, #fnumber, #fcountry, #fmessage").val("");
+                              }
+                    });
+
+        
+    }
+             else{
+              alert("All fields are mandatory");
+                  }
+    });
+});
+
+</script>
    </body>
 </html>

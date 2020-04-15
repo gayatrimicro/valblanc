@@ -8,7 +8,7 @@
         <div class="modal-body">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <div class="inner_enqfrm">
-            <form id="frm_inq">
+            <form id="frm_inq" method="post">
               <div class="form-group">
                 <input type="text" class="form-control" id="fname" name="fname" placeholder="Name *" required>
               </div>

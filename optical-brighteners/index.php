@@ -341,37 +341,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <script src='../assets/js/bootstrape.js' type='text/javascript'></script> 
       <script src='../assets/js/jquery-ui.min.js' type='text/javascript'></script> 
       <script src='../assets/js/slick.min.js' type='text/javascript'></script>
-      <script>
-$(document).ready(function() { 
-    $('#frm_inq').submit(function(event) {
-      event.preventDefault();
-      var formdata = $('#frm_inq').serialize();
-      // alert(formdata);
-       var e = document.getElementById("fcountry");
-      var country = e.options[e.selectedIndex].value;
-        if ($('#fname').val() != "" && $('#femail').val() != "" && $('#fcompany').val() != "" && $('#fnumber').val() != "" && country != 0 && $('#fmessage').val() != "") {
-            
-             $.ajax({
-                              url:'request.php',
-                              type:'POST',
-                              data:formdata,
-                              success:function(result){
-                                
-                                  
-                                  alert("Your enquiry has been sent successfully");
-                                  $("#fname, #femail, #fcompany, #fnumber, #fmessage").val("");
-                                  e.selectedIndex = 0;
-                              }
-                    });
 
-        
-    }
-             else{
-              alert("All fields are mandatory");
-                  }
-    });
-});
-
-</script>
    </body>
 </html>

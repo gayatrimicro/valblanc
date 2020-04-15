@@ -291,3 +291,37 @@
 
 
 <button type="button" class="btn_info" data-toggle="modal" data-target="#inqu_frm"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> &nbsp;Inquire Now</button>
+
+
+      <script>
+$(document).ready(function() { 
+    $('#frm_inq').submit(function(event) {
+      event.preventDefault();
+      var formdata = $('#frm_inq').serialize();
+      // alert(formdata);
+       var e = document.getElementById("fcountry");
+      var country = e.options[e.selectedIndex].value;
+        if ($('#fname').val() != "" && $('#femail').val() != "" && $('#fcompany').val() != "" && $('#fnumber').val() != "" && country != 0 && $('#fmessage').val() != "") {
+            
+             $.ajax({
+                              url:'request.php',
+                              type:'POST',
+                              data:formdata,
+                              success:function(result){
+                                
+                                  
+                                  alert("Your enquiry has been sent successfully");
+                                  $("#fname, #femail, #fcompany, #fnumber, #fmessage").val("");
+                                  e.selectedIndex = 0;
+                              }
+                    });
+
+        
+    }
+             else{
+              alert("All fields are mandatory");
+                  }
+    });
+});
+
+</script>

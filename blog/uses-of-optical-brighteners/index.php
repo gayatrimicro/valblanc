@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THHLWSN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<?php include "../../inqfrm.php";?>
+
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
  
@@ -134,5 +134,6 @@ So here we come to know with all the above-mentioned points it is understandable
   </script> 
   <script src='../../assets/js/slick.min.js' type='text/javascript'>
   </script>
+  <?php include "../../inqfrm.php";?>
 </body>
 </html>

@@ -84,7 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-<?php include "../inqfrm.php";?>
+
 
       <div class="head-section">
          <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
@@ -341,6 +341,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <script src='../assets/js/bootstrape.js' type='text/javascript'></script> 
       <script src='../assets/js/jquery-ui.min.js' type='text/javascript'></script> 
       <script src='../assets/js/slick.min.js' type='text/javascript'></script>
-
+<?php include "../inqfrm.php";?>
    </body>
 </html>

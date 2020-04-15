@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 <body class="page-template-default page page-id-554">
-  <?php include "../inqfrm.php";?>
+  
   <div class="head-section make-things-orange">
     <header class="header-section inner-page-head-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
   
@@ -283,5 +283,6 @@ OUR PRIORITY IS TOWARDS A SAFER AND HEALTHIER FUTURE.  </p>
   </script> 
   <script src='../assets/js/slick.min.js' type='text/javascript'>
   </script>
+  <?php include "../inqfrm.php";?>
 </body>
 </html>

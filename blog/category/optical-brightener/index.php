@@ -26,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 </head>
 <body class="home page-template-default page page-id-5" style="background-size: cover;">
-  <?php include "../../../inqfrm.php";?>
+
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
  
@@ -80,5 +80,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </script> 
   <script src='../../../assets/js/slick.min.js' type='text/javascript'>
   </script>
+    <?php include "../../../inqfrm.php";?>
 </body>
 </html>

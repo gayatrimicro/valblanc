@@ -16,7 +16,7 @@
   </script>
   <link href="../../../assets/css/main.css" media="screen and (max-device-width: 1366px)" rel="stylesheet" type="text/css">
   <link href="../../../assets/images/favicon.png" rel="icon" sizes="32x32">
-  <link rel="canonical" href="http://www.valblanc.com/blog/category/optical-brightener/"/>
+  <link rel="canonical" href="http://www.valblanc.com/blog/category/textile-products/"/>
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -26,6 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 </head>
 <body class="home page-template-default page page-id-5" style="background-size: cover;">
+  <?php include "../../../inqfrm.php";?>
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
  

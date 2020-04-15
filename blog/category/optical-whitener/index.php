@@ -4,7 +4,7 @@
   <meta content="text/html; charset=utf-8" http-equiv="content-type">
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <title>Benefits of Optical Brighteners for Textile Industries | United specialities</title>
+  <title>Benefits of Optical Whitener for Textile Industries | United specialities</title>
   <meta content="United specialities" name="">
   <link href='http://fonts.googleapis.com/' rel='dns-prefetch'>
   <link href='../../../assets/css/styles.css' id='contact-form-7-css' media='all' rel='stylesheet' type='text/css'>
@@ -16,7 +16,7 @@
   </script>
   <link href="../../../assets/css/main.css" media="screen and (max-device-width: 1366px)" rel="stylesheet" type="text/css">
   <link href="../../../assets/images/favicon.png" rel="icon" sizes="32x32">
-  <link rel="canonical" href="http://www.valblanc.com/blog/category/textile-products/"/>
+  <link rel="canonical" href="http://www.valblanc.com/blog/category/optical-whitener/"/>
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -26,6 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 </head>
 <body class="home page-template-default page page-id-5" style="background-size: cover;">
+  <?php include "../../../inqfrm.php";?>
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
  
@@ -56,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col">
        
        <div class="col-div col-xs-12  col-lg-10 col-lg-offset-1 term-area-layout">
-          <h2 style="margin-top: 60px;">Benefits of Optical Brighteners for Textile Industries</h2>
+          <h2 style="margin-top: 60px;">Benefits of Optical Whitener for Textile Industries</h2>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
                <p style="margin-top: 20px;">As the time develop and individuals turn out to be increasingly aware of the way they introduce themselves, the textile and the cleanser industries additionally need to observe and make sense of how the purchasers might be given the most elevated amount of satisfaction when they are engaged with the brand. <a href="http://www.valblanc.com/blog/benefits-of-optical-brighteners-for-textile-industries/" style="color: #2a2c74; font-weight: 600;">Continue reading Benefits of Optical Brighteners for Textile Industries</a></p>

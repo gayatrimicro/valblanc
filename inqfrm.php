@@ -67,7 +67,7 @@
                 <input type="text" class="form-control" id="fname" name="fname" placeholder="Name *" required>
               </div>
               <div class="form-group">
-                <input type="email" class="form-control" id="femail" name="femail" placeholder="Email *" required>
+                <input type="email" class="form-control" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" id="femail" name="femail" placeholder="Email *" required>
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" id="fcompany" name="fcompany" placeholder="Company *" required>

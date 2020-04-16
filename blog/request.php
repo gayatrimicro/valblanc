@@ -12,10 +12,10 @@
 	 
 	 // $location = $_POST["location"];
 
-	 $subject ="Inquiry Form" . $firstname;
+	$subject ="Inquiry Form " . $firstname;
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= 'From: <' . $email .">" ."\r\n";
+	$headers .= 'From: United Specialities Inquiry <' . $email .">" ."\r\n";
 	
 	// $headers .= 'Cc: birthdayarchive@example.com' . "\r\n";
 	// $headers .= 'Bcc: birthdaycheck@example.com' . "\r\n";
@@ -31,25 +31,25 @@
 
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Phone number :</strong></td>
+	                   <td align='left' width='35%'><strong>Email :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $email ."</td>
 	                 </tr>
 
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Email:</strong></td>
+	                   <td align='left' width='35%'><strong>Company:</strong></td>
 	                   <td align='left' width='60%'>
 	                   ".  $company ."</td>
 	                 </tr>
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Date :</strong></td>
+	                   <td align='left' width='35%'><strong>Phone :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $phone ."</td>
 	                 </tr>
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Time :</strong></td>
+	                   <td align='left' width='35%'><strong>Country :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $country ."</td>
 	                 </tr>

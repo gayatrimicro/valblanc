@@ -1,4 +1,58 @@
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #3da097;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 100000;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 4s;
+  animation: fadein 0.5s, fadeout 0.5s 4s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+@media(min-width: 320px) and (max-width: 767px){
+      #snackbar {
+    min-width: 80%;
+    margin-left: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 94%;
+}
+}
+</style>
 <!-- Modal start -->
   <div class="modal fade" id="inqu_frm" role="dialog">
     <div class="modal-dialog">
@@ -19,12 +73,12 @@
                 <input type="text" class="form-control" id="fcompany" name="fcompany" placeholder="Company *" required>
               </div>
               <div class="form-group">
-                <input type="tel" class="form-control" id="fnumber" name="fnumber" placeholder="Mobile *" required>
+                <input type="text" onkeypress="return isNumberKey(event)" class="form-control" id="fnumber" name="fnumber" placeholder="Mobile *" minlength="10" maxlength="10" required>
               </div>
               <div class="form-group">
                 <select class="form-control" id="fcountry" name="fcountry" required>
 
-                  <option value="0">Select Country</option>
+                  <option value="">Select Country</option>
                   <option value="Afganistan">Afghanistan</option>
                    <option value="Albania">Albania</option>
                    <option value="Algeria">Algeria</option>
@@ -290,6 +344,8 @@
 <!-- Modal end -->
 
 
+<div id="snackbar">Your enquiry has been sent successfully</div>
+
 <button type="button" class="btn_info" data-toggle="modal" data-target="#inqu_frm"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> &nbsp;Inquire Now</button>
 
 
@@ -309,8 +365,8 @@
                               data:formdata,
                               success:function(result){
                                 
-                                  
-                                  alert("Your enquiry has been sent successfully");
+                                  $('#inqu_frm').modal('hide');
+                                  snackshow();
                                   $("#fname, #femail, #fcompany, #fnumber, #fmessage").val("");
                                   e.selectedIndex = 0;
                               }
@@ -324,4 +380,18 @@
     });
 });
 
+
+
+function isNumberKey(evt){
+    var charCode = (evt.which) ? evt.which : evt.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57))
+        return false;
+    return true;
+}
+
+function snackshow() {
+  var x = document.getElementById("snackbar");
+  x.className = "show";
+  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 4000);
+}
 </script>

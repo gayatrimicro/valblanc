@@ -15,7 +15,7 @@
 	$subject ="Inquiry Form " . $firstname;
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= 'From: <' . $email .">" ."\r\n";
+	$headers .= 'From: United Specialities Inquiry <' . $email .">" ."\r\n";
 	
 	// $headers .= 'Cc: birthdayarchive@example.com' . "\r\n";
 	// $headers .= 'Bcc: birthdaycheck@example.com' . "\r\n";
@@ -63,7 +63,7 @@
 	                 
 	               </table>";  
 	              
-			if(mail("aarielalmeida88@gmail.com", $subject, $message, $headers))
+			if(mail("sales@unitedspecialities.com, aarielalmeida88@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
 			// setcookie('tntcon','');

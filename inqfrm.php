@@ -325,6 +325,7 @@
                    <option value="Zaire">Zaire</option>
                    <option value="Zambia">Zambia</option>
                    <option value="Zimbabwe">Zimbabwe</option>
+                   <option value="Other">Other</option>
                 </select>
               </div>
               <div class="form-group">

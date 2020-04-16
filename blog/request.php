@@ -63,7 +63,7 @@
 	                 
 	               </table>";  
 	              
-			if(mail("aarielalmeida88@gmail.com", $subject, $message, $headers))
+			if(mail("sales@unitedspecialities.com, aarielalmeida88@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
 			// setcookie('tntcon','');

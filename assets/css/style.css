@@ -9778,5 +9778,35 @@ and (min-device-width: 375px)
     color: #3da097;
     background-color: #fff;
     transition: 0.8s all;
-  }    
+  }
+  .cer_ul li
+  {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+        width: 16%;
+  }
+  .cer_ul li:last-child
+  {
+    margin-right: 0;
+  }
+  .cer_ul li img
+  {
+    padding: 0 !important;
+  }
+
+  @media(min-width: 320px) and (max-width: 767px){
+    .cer_ul li {
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.cer_ul
+{
+  padding: 0;
+}
+
+
+  }  
 /*---------End--------------*/

@@ -375,14 +375,16 @@ Certificate of Merit</strong> in recognition of excellent performance in the fil
             <div class="col blog-post-list">
               <div class="col-div col-xs-12 col-md-12 blog-post-content">
                 <div class="col">
-                  <div class="col-div col-xs-12"> 
-                    <img class="space" src="assets/images/uploads/img-4.png">
-                    <img class="space" src="assets/images/uploads/img-8.png">
-                   <!--  <img class="space" src="assets/images/uploads/img-9.png"> -->
-                   <script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script>
-               
-                    <img class="space" src="assets/images/uploads/img-7.png">
-                    <img class="space" src="assets/images/uploads/img-5.png">
+                  <div class="col-div col-xs-12">
+
+                    <ul class="cer_ul">
+                      <li><img class="space" src="assets/images/uploads/img-4.png"></li>
+                      <li><img class="space" src="assets/images/uploads/img-8.png"></li>
+                      <li> <!--  <img class="space" src="assets/images/uploads/img-9.png"> -->
+                      <script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script></li>
+                      <li><img class="space" src="assets/images/uploads/img-7.png"></li>
+                      <li><img class="space" src="assets/images/uploads/img-5.png"></li>
+                    </ul>  
 
                   </div>
                  

@@ -294,7 +294,7 @@
 
 
       <script>
-$(document).ready(function() { 
+            jQuery(function ($) { 
     $('#frm_inq').submit(function(event) {
       event.preventDefault();
       var formdata = $('#frm_inq').serialize();

@@ -98,6 +98,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
               <p style="margin-top: 20px;">Optical brighteners are synthetic chemicals which are added to the liquid and detergent powder to make clothing appear whiter, brighter and cleaner. They are the modern day replacements for the decades old method of bluing adding small amounts of blue dye to fabric to make it appear whiter.</p>
+
+              <img src="../../assets/images/blog/opt1.jpg" style="max-width: 100%;">
               
             </div>
 
@@ -113,7 +115,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Optical Whiteners</li>
                 <li>Fluorescent Brightening Agents</li>
                 <li>Organic Fluorescent Dyes</li>
-              </ul>              
+              </ul>
+              <br>
+                <img src="../../assets/images/blog/opt2.jpg" style="max-width: 100%;">            
             </div>
 
             <h2 style="margin-top: 60px;">What are the trade names for optical brighteners?</h2>
@@ -129,7 +133,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Tinopal</li>
                 <li>Tuboblanc (textile use mostly)</li>
                 <li>Uvitex</li>
-              </ul>              
+              </ul> 
+              <img src="../../assets/images/blog/opt3.jpeg" style="max-width: 100%;">             
             </div>
 
             <h2 style="margin-top: 60px;">How do optical brighteners work?</h2>
@@ -143,7 +148,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
               <p style="margin-top: 20px;">As per Title 21, optical brighteners are managed by the Food and Drug Administration (FDA) when they are used in materials that come into contact with food, such as plastic and paper packaging. When they are used for other things, such as in the cleaning industry, they are checked by the Environmental Protection Agency (EPA).</p>
-              <p>According to the article "Key Characteristics of Laundry Detergents" by Design for the Environment (DFE), an EPA partnership program, optical brighteners can be potentially toxic to humans and "Aminotriazine or stilbene based whiteners can cause developmental and reproductive effects." However, the article also notes that further testing is needed to confirm these concerns.</p>             
+              <p>According to the article "Key Characteristics of Laundry Detergents" by Design for the Environment (DFE), an EPA partnership program, optical brighteners can be potentially toxic to humans and "Aminotriazine or stilbene based whiteners can cause developmental and reproductive effects." However, the article also notes that further testing is needed to confirm these concerns.</p>
+
+              <img src="../../assets/images/blog/opt4.jpg"  style="max-width: 100%;">             
             </div>
 
             <h2 style="margin-top: 60px;">What environmental effects do optical brighteners have?</h2>
@@ -160,7 +167,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
               <p style="margin-top: 20px;">Optical Brighteners are commonly added to laundry detergents to make the clothes look cleaner. Usually cleaned laundry looks yellowish, which consumers do not like. Optical brighteners have replaced bluing which was previously used to produce the same effect.</p>
               <p>Brighteners are used in many papers, especially high brightness papers, resulting in their strongly fluorescent appearance under UltraViolet illumination. Paper brightness is generally measured at 457 nm, well within the fluorescent activity range of brighteners. Paper used for banknotes do not contain optical brighteners, so a common method for detecting counterfeit notes is to check for fluorescence.</p>
-              <p>Optical brighteners have also found use in cosmetics. One implementation is to formulas for washing and conditioning grey or blonde hair, where the brightener can not only increase the luminance and sparkle of the hair, but can also perfect dull, yellowish discoloration without darkening the hair. Some of the advanced face and eye powders contain optical brightener microspheres that brighten shadowed or dark areas of the skin, such as "tired eyes".</p>            
+              <p>Optical brighteners have also found use in cosmetics. One implementation is to formulas for washing and conditioning grey or blonde hair, where the brightener can not only increase the luminance and sparkle of the hair, but can also perfect dull, yellowish discoloration without darkening the hair. Some of the advanced face and eye powders contain optical brightener microspheres that brighten shadowed or dark areas of the skin, such as "tired eyes".</p>
+
+              <img src="../../assets/images/blog/opt5.jpg"  style="max-width: 100%;">           
             </div>
 
             <h2 style="margin-top: 60px;">What are the end uses of optical brighteners?</h2>

@@ -61,6 +61,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     display: inline-block;
     vertical-align: top;     
   }
+  .wid50{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+  }
 </style>
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
@@ -106,6 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2 style="margin-top: 60px;">What are the different terms for optical brighteners?</h2>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
+            <div class="wid50">
               <ul>
                 <li>Fluorescent Brighteners</li>
                 <li>Fluorescent Optical Brighteners</li>
@@ -116,13 +122,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Fluorescent Brightening Agents</li>
                 <li>Organic Fluorescent Dyes</li>
               </ul>
+            </div>
+            <div class="wid50">
+              <img src="../../assets/images/blog/opt2.jpg" style="max-width: 100%;"> 
+            </div>
+              
               <br>
-                <img src="../../assets/images/blog/opt2.jpg" style="max-width: 100%;">            
+                           
             </div>
 
             <h2 style="margin-top: 60px;">What are the trade names for optical brighteners?</h2>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
+            <div class="wid50">
               <ul>
                 <li>Blankophor</li>
                 <li>Dikaphor</li>
@@ -134,7 +146,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Tuboblanc (textile use mostly)</li>
                 <li>Uvitex</li>
               </ul> 
-              <img src="../../assets/images/blog/opt3.jpeg" style="max-width: 100%;">             
+            </div>
+            <div class="wid50">
+              <img src="../../assets/images/blog/opt3.jpeg" style="max-width: 100%;">
+            </div>
+              
+                           
             </div>
 
             <h2 style="margin-top: 60px;">How do optical brighteners work?</h2>
@@ -147,10 +164,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2 style="margin-top: 60px;">Regulation, Health, and Safety (Optical Brighteners)</h2>
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
+            <div class="wid50">
               <p style="margin-top: 20px;">As per Title 21, optical brighteners are managed by the Food and Drug Administration (FDA) when they are used in materials that come into contact with food, such as plastic and paper packaging. When they are used for other things, such as in the cleaning industry, they are checked by the Environmental Protection Agency (EPA).</p>
               <p>According to the article "Key Characteristics of Laundry Detergents" by Design for the Environment (DFE), an EPA partnership program, optical brighteners can be potentially toxic to humans and "Aminotriazine or stilbene based whiteners can cause developmental and reproductive effects." However, the article also notes that further testing is needed to confirm these concerns.</p>
+            </div>
+            <div class="wid50">
+              <img src="../../assets/images/blog/opt4.jpg"  style="max-width: 100%; margin-top: 20px;">
+            </div>
+              
 
-              <img src="../../assets/images/blog/opt4.jpg"  style="max-width: 100%;">             
+                           
             </div>
 
             <h2 style="margin-top: 60px;">What environmental effects do optical brighteners have?</h2>

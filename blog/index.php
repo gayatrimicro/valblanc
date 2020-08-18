@@ -120,6 +120,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
           <br> <br>
           <div class="col-div col-xs-12 col-lg-12 content-area-layout">
+            <h2 style="margin-top: 60px;">What are optical brighteners?</h2>
+                    <p style="margin-top: 20px;"> Optical brighteners are synthetic chemicals which are added to the liquid and detergent powder to make clothing appear whiter, brighter and cleaner. They are the modern day replacements for the decades old method of bluing adding small amounts of blue dye to fabric to make it appear whiter. <a href="http://www.valblanc.com/blog/optical-brighteners-terms-trade-names-common-uses-environmental-effects/" style="color: #2a2c74; font-weight: 600;">Read More
+</a></p> 
         <h2 style="margin-top: 60px;">Brief About Optical Brightening Agents & Their Uses</h2>
                     <p style="margin-top: 20px;"> OBAs are chemical compounds that play with colors. As the name suggests it is self-explanatory that Optical Brighteners are those brighteners operate the visible part of the electromagnetic spectrum, especially in relation to the action of light and colors. <a href="http://www.valblanc.com/blog/uses-of-optical-brighteners/" style="color: #2a2c74; font-weight: 600;">Read More
 </a></p>       

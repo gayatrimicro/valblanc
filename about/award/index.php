@@ -469,6 +469,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
+<div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content js--fadeInLeft">
+          <div class="date">
+         2019-2020 
+          </div>
+          <h2>DMAI</h2>
+          <blockquote>
+           Award in recognition of excellent performance in export of Optical Whitening Agents by A SME Unit 
+          </blockquote>
+        </div>
+      </div>
+
+<div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content js--fadeInLeft">
+          <div class="date">
+         2020-2021 
+          </div>
+          <h2>DMAI</h2>
+          <blockquote>
+Certificate of Merit in recognition of excellent performance in export of Optical Whitening Agents by A SME Unit          </blockquote>
+        </div>
+      </div>
+
 
 
 

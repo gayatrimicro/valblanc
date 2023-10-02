@@ -4,7 +4,7 @@
   <meta content="text/html; charset=utf-8" http-equiv="content-type">
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  
+
 <title>Award and Recognition - Valblanc - United Specialities</title>
 
 <meta name="description" content="Check out our Awards and Recognition of Excellent Performance In The Field of Export of Optical Whitening Agents. We have also received many accolades for excellent performance of optical brighteners in the domestic market. Explore our awards now!">
@@ -19,13 +19,13 @@
     <meta property="og:title" content="Award and Recognition - Valblanc - United Specialities" >
     <meta property="og:description"  content="Check out our Awards and Recognition of Excellent Performance In The Field of Export of Optical Whitening Agents. We have also received many accolades for excellent performance of optical brighteners in the domestic market. Explore our awards now!">
     <!-- Open Graph data -->
-    
+
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:title" content="Award and Recognition - Valblanc - United Specialities"  >
     <meta name="twitter:description" content="Check out our Awards and Recognition of Excellent Performance In The Field of Export of Optical Whitening Agents. We have also received many accolades for excellent performance of optical brighteners in the domestic market. Explore our awards now!" >
     <!-- Twitter Card data -->
-   
+
     <link href="http://www.valblanc.com/about/award/" rel="canonical">
     <link rel="alternate" href="http://www.valblanc.com/about/award/" hreflang="en-in" />
 
@@ -91,12 +91,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    margin-top:  -23.4%;
   }
 
- 
+
   @media screen and (max-width: 768px){
    .same{
    margin-top:0;
   }
-  
+
 
   }
 #tagline{
@@ -146,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <div class="head-section">
     <header class="header-section" data-offset-top="1" data-spy="affix" id="tasngsite"></header>
- 
+
     <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade bs-example-modal-lg" id="homevideo" role="dialog" tabindex="-1">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -183,9 +183,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 });
               });
     </script>
-   
+
   </div>
- 
+
 
   <section class="timeline">
 
@@ -203,13 +203,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-    
-     
+
+
       <div class="timeline-item">
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2003-2004 
+         2003-2004
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -221,7 +221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-              2003-2004 
+              2003-2004
           </div><br>
           <h2>DMAI</h2>
           <blockquote>
@@ -245,7 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-       2004-2005 
+       2004-2005
           </div><br>
           <h2>DMAI</h2>
           <blockquote>
@@ -258,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-        2005-2006 
+        2005-2006
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -283,11 +283,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-           2007-08 
+           2007-08
           </div>
           <h2>CHEMEXCIL</h2>
           <blockquote>
-            Certificate of Merit – for the Outstanding Export Performance in Dyes & Dye Intermediates   
+            Certificate of Merit – for the Outstanding Export Performance in Dyes & Dye Intermediates
                     Panel
 
           </blockquote>
@@ -298,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-            2009-10 
+            2009-10
           </div>
           <h2>CHEMEXCIL</h2>
           <blockquote>
@@ -322,7 +322,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-     2010-2011 
+     2010-2011
 
           </div>
           <h2>DMAI</h2>
@@ -331,11 +331,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </blockquote>
         </div>
       </div>
-    
 
-     
 
-     
+
+
+
       <div class="timeline-item">
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
@@ -352,7 +352,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-             2012-2013 
+             2012-2013
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -364,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2012-2013 
+         2012-2013
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -377,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2013-2014 
+         2013-2014
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -390,7 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-           2013-2014 
+           2013-2014
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -403,7 +403,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2016-2017 
+         2016-2017
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -434,7 +434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
           <h2>DMAI</h2>
           <blockquote>
-           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME. 
+           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME.
           </blockquote>
         </div>
       </div>
@@ -450,7 +450,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
           <h2>DMAI</h2>
           <blockquote>
-           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME. 
+           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME.
           </blockquote>
         </div>
 </div>
@@ -460,7 +460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2018-2019 
+         2018-2019
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -473,11 +473,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2019-2020 
+         2019-2020
           </div>
           <h2>DMAI</h2>
           <blockquote>
-           Award in recognition of excellent performance in export of Optical Whitening Agents by A SME Unit 
+           Award in recognition of excellent performance in export of Optical Whitening Agents by A SME Unit
           </blockquote>
         </div>
       </div>
@@ -486,11 +486,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2020-2021 
+         2020-2021
           </div>
           <h2>DMAI</h2>
           <blockquote>
 Certificate of Merit in recognition of excellent performance in export of Optical Whitening Agents by A SME Unit          </blockquote>
+        </div>
+      </div>
+
+      <!-- added by debasish -->
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content js--fadeInLeft">
+          <div class="date">
+         2022-2023
+          </div>
+          <h2>DMAI</h2>
+          <blockquote>
+          First Award in recognition of excellent performance in exports of Optical Whitening Agents by a SME Unit          </blockquote>
+        </div>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-img"></div>
+        <div class="timeline-content js--fadeInLeft">
+          <div class="date">
+         2022-2023
+          </div>
+          <h2>DMAI</h2>
+          <blockquote>
+          Award for the outstanding performance in Domestic Market by SME Unit for 2022-2023          </blockquote>
         </div>
       </div>
 
@@ -510,7 +535,7 @@ Certificate of Merit in recognition of excellent performance in export of Optica
           </div>
           <h2>DMAI</h2>
           <blockquote>
-           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME. 
+           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME.
           </blockquote>
         </div>
       </div> -->
@@ -520,7 +545,7 @@ Certificate of Merit in recognition of excellent performance in export of Optica
         <div class="timeline-img"></div>
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
-         2013-2014 
+         2013-2014
           </div>
           <h2>DMAI</h2>
           <blockquote>
@@ -538,7 +563,7 @@ Certificate of Merit in recognition of excellent performance in export of Optica
           </div>
           <h2>DMAI</h2>
           <blockquote>
-           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME. 
+           Award in recognition of excellent performance in the field of export of Optical Whitening Agents by a SME.
           </blockquote>
         </div>
       </div> -->
@@ -546,22 +571,22 @@ Certificate of Merit in recognition of excellent performance in export of Optica
    <!-- prabhat pandit new code ends here !-->
 
 
-      
-      
+
+
 </div>
 </section>
 
 
- 
+
    <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 content-title-area-layout" id="award">
                                 <h2 class="content-title title-left" id="tagline" >** awarded to Valblanc Chemie (P) Ltd & United Specialities (P) Ltd</h2>
                                     <h2 id="tagline" style="font-style:italic;">
 DMAI -  The Dyestuffs Manufacture Association of India.<br><br>
 CHEMEXCIL    -  Basic Chemicals, Pharmaceuticals and Cosmetics Export promotion Council ( Set up by Ministry of Commerce & industry, Government of India )</h2>
-                                   
+
                   </div>
-     
-             
+
+
 
   <div class="register-interest-form">
     <div class="container">
@@ -576,9 +601,9 @@ CHEMEXCIL    -  Basic Chemicals, Pharmaceuticals and Cosmetics Export promotion 
   </div>
   <footer class="footer-section" id='main-footer'></footer>
   <script src='../../assets/js/bootstrape.js' type='text/javascript'>
-  </script> 
+  </script>
   <script src='../../assets/js/jquery-ui.min.js' type='text/javascript'>
-  </script> 
+  </script>
   <script src='../../assets/js/slick.min.js' type='text/javascript'>
   </script>
   <?php include "../../inqfrm.php";?>

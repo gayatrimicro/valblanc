@@ -507,8 +507,8 @@ Certificate of Merit in recognition of excellent performance in export of Optica
         </div>
       </div>
 
-      <div class="timeline-item">
-        <div class="timeline-img"></div>
+      <div class="timeline-item same5">
+        <!-- <div class="timeline-img"></div> -->
         <div class="timeline-content js--fadeInLeft">
           <div class="date">
          2022-2023

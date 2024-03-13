@@ -227,7 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
                  <li>REACh Compliant </li>
                 
-                <li> OEKO-TEX Certified </li>
+                
                 <li>ZDHC Screened </li>
               </ul>
             </div>

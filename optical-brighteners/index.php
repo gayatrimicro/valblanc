@@ -330,9 +330,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </h4>
          </div>
          <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 content-title-area-layout text-center" >
-            <h3>our POLYESTER OBA’s are certified by OEKO-TEX  and Screened by ZDHC.</h3>
+            <h3>our POLYESTER OBA’s are Screened by ZDHC.</h3>
             <br><br>
-            <img src="../assets/images/uploads/img-8.png" id="gap">
+            <!-- <img src="../assets/images/uploads/img-8.png" id="gap"> -->
             <img src="../assets/images/uploads/zdhc.jpg">
             <br><br>
          </div>

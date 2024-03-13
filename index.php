@@ -274,7 +274,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="col-div content-area-layout">
                 <ul>
                   <li style="width:100%">REACh Compliant </li>
-                  <li style="width:100%">OEKO-TEX  Certified </li>
+                  
                   <li style="width:100%">ZDHC Screened </li>
                 </ul>
               </div>
@@ -379,7 +379,7 @@ Certificate of Merit</strong> in recognition of excellent performance in the fil
 
                     <ul class="cer_ul">
                       <li><img class="space" src="assets/images/uploads/img-4.png"></li>
-                      <li><img class="space" src="assets/images/uploads/img-8.png"></li>
+                      
                       <li> <!--  <img class="space" src="assets/images/uploads/img-9.png"> -->
                       <script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script></li>
                       <li><img class="space" src="assets/images/uploads/img-7.png"></li>

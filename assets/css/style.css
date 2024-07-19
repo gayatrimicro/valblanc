@@ -9794,18 +9794,24 @@ and (min-device-width: 375px)
   {
     padding: 0 !important;
   }
-
+  .eco-cerli{
+    width: 40% !important;
+    text-align: center;
+  }
   @media(min-width: 320px) and (max-width: 767px){
     .cer_ul li {
     margin-right: 0;
     width: 100%;
     margin-bottom: 25px;
     text-align: center;
-}
-.cer_ul
-{
-  padding: 0;
-}
+    }
+    .cer_ul
+    {
+      padding: 0;
+    }
+    .eco-cerli{
+      width: 100% !important;
+    }
 
 
   }  

@@ -400,8 +400,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
            <div class="col-div col-xs-12 col-xl-10 col-xl-offset-1">
            		<ul class="cer_ul">
-		            <li>
-		            	<img style="width: 100%;height: auto;max-width: 150px;" class="space" src="assets/images/oeko-tex.webp">
+		            <li class="eco-cerli">
+		            	<img style="width: 100%;height: auto;" class="space" src="assets/images/oeko-tex.webp">
 		            	<br><br>
 		            	<a style="text-align: center;font-size: 18px;text-decoration: underline;" href="/assets/pdf/OEKO TEX - new certificate.pdf" target="_blank"><strong>View Certificate</strong></a>
 		            </li>

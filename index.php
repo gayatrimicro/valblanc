@@ -358,8 +358,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="row">
             <div class="col">
               <div class="col-div col-xs-12 col-xl-10" style="margin: auto;">
-               <h1 style="padding: 0 20px;"><span style="color: #2a2c74;font-size: 25px;"><strong>DMAI
-Certificate of Merit</strong> in recognition of excellent performance in the filed of export of Optical Whitening Agents by A SME Unit For 2018-2019 </span> </h1>
+               <h1 style="padding: 0 20px;"><span style="color: #2a2c74;font-size: 25px;"><strong>DMAI Certificate of Merit</strong> in recognition of excellent performance in the filed of export of Optical Whitening Agents by A SME Unit For 2018-2019 </span> </h1>
               </div>
             </div>
           </div>
@@ -373,29 +372,41 @@ Certificate of Merit</strong> in recognition of excellent performance in the fil
           </div>
           <div class="col-div col-xs-12 col-xl-10 col-xl-offset-1">
             <div class="col blog-post-list">
-              <div class="col-div col-xs-12 col-md-12 blog-post-content">
-                <div class="col">
-                  <div class="col-div col-xs-12">
+              	<div class="col-div col-xs-12 col-md-12 blog-post-content">
+                	<div class="col">
+	                  	<div class="col-div col-xs-12">
 
-                    <ul class="cer_ul">
-                      <li><img class="space" src="assets/images/uploads/img-4.png"></li>
-                      
-                      <li> <!--  <img class="space" src="assets/images/uploads/img-9.png"> -->
-                      <script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script></li>
-                      <li><img class="space" src="assets/images/uploads/img-7.png"></li>
-                      <li><img class="space" src="assets/images/uploads/img-5.png"></li>
-                    </ul>  
+		                    <ul class="cer_ul">
+		                      <li><img class="space" src="assets/images/uploads/img-4.png"></li>
+		                      
+		                     <!-- <li>   <img class="space" src="assets/images/uploads/img-9.png"> -->
+		                      <script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script></li>
+		                      <li><img class="space" src="assets/images/uploads/img-7.png"></li>
+		                      <li><img class="space" src="assets/images/uploads/img-5.png"></li>
+		                    </ul>  
 
-                  </div>
-                 
-                  <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 home-blog-title"></div>
-                  <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 home-blog-title">
+	                  	</div>
+	                 
+		                  	<!-- <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 home-blog-title"></div>
+		                  	<div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 home-blog-title"> -->
                    
-                  </div>
+                  	</div>
                 </div>
               </div>
             </div>
           </div>
+          <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 home-blog-title">
+            <h2>Eco Passport Certificate</h2><br><br>
+          </div>
+           <div class="col-div col-xs-12 col-xl-10 col-xl-offset-1">
+           		<ul class="cer_ul">
+		            <li>
+		            	<img style="width: 100%;height: auto;max-width: 150px;" class="space" src="assets/images/oeko-tex.webp">
+		            	<br><br>
+		            	<a style="text-align: center;font-size: 18px;text-decoration: underline;" href="/assets/pdf/OEKO TEX - new certificate.pdf" target="_blank"><strong>View Certificate</strong></a>
+		            </li>
+		        </ul><br><br><br><br>
+           </div>
         </div>
       </div>
     </div>

@@ -228,7 +228,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  <li>REACh Compliant </li>
                 
                 
-                <li>ZDHC Screened </li>
+                <!-- <li>ZDHC Screened </li> -->
               </ul>
             </div>
             <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1"></div>

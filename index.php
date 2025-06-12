@@ -275,7 +275,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <ul>
                   <li style="width:100%">REACh Compliant </li>
                   
-                  <li style="width:100%">ZDHC Screened </li>
+                  <!-- <li style="width:100%">ZDHC Screened </li> -->
                 </ul>
               </div>
             </div>

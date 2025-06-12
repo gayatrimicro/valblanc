@@ -329,13 +329,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                We are in a position to customise our OBA's based on your specific requirement of APPLICATION, TONE, STRENGTH etc...
             </h4>
          </div>
-         <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 content-title-area-layout text-center" >
+            <br><br>
+
+         <!-- <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 content-title-area-layout text-center" >
             <h3>our POLYESTER OBA’s are Screened by ZDHC.</h3>
-            <br><br>
+            <br><br> -->
             <!-- <img src="../assets/images/uploads/img-8.png" id="gap"> -->
-            <img src="../assets/images/uploads/zdhc.jpg">
+            <!-- <img src="../assets/images/uploads/zdhc.jpg">
             <br><br>
-         </div>
+         </div> -->
       </div>
       <footer class="footer-section" id='main-footer'></footer>
       <script src='../assets/js/bootstrape.js' type='text/javascript'></script> 

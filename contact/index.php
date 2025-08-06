@@ -8,7 +8,7 @@
     <link href="http://gmpg.org/xfn/11" rel="profile">
 
    <title>United Specialities: Optical Whitening Agents Manufacturers India</title>
-   
+
 <meta name="description" content="Get in touch with us via email or phone for all your Optical Brightening Agents (OBAs), Fluorescent Brightening Agents (FBAs) or Fluorescent Whitening Agents (FWAs) or Luminophores requirements for textile industry. Visit our website for more details.">
 
 <meta name="Keywords" content="optical brighteners, optical brightening agent manufacturers, fluorescent whitening agent, manufacturer, exporter, india">
@@ -22,13 +22,13 @@
     <meta property="og:title" content="United Specialities: Optical Whitening Agents Manufacturers India" >
     <meta property="og:description"  content="Get in touch with us via email or phone for all your Optical Brightening Agents (OBAs), Fluorescent Brightening Agents (FBAs) or Fluorescent Whitening Agents (FWAs) or Luminophores requirements for textile industry. Visit our website for more details.">
     <!-- Open Graph data -->
-    
+
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:title" content="United Specialities: Optical Whitening Agents Manufacturers India"  >
     <meta name="twitter:description" content="Get in touch with us via email or phone for all your Optical Brightening Agents (OBAs), Fluorescent Brightening Agents (FBAs) or Fluorescent Whitening Agents (FWAs) or Luminophores requirements for textile industry. Visit our website for more details." >
     <!-- Twitter Card data -->
-   
+
     <link href="http://www.valblanc.com/contact/" rel="canonical">
     <link rel="alternate" href="http://www.valblanc.com/contact/" hreflang="en-in" />
 
@@ -173,9 +173,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <img alt="uni Specialities" width="20px" id="call" src="../assets/images/uploads/call.svg">Call us</h3>
                                             <!-- <h2>Address</h2> -->
 
-                                            <p><a href="tel:+91-22-26138053">+91-22-26138053</a><br>
-                                                <a href="tel:+91-22-26138054">+91-22-26138054</a><br>
-                                                <a href="tel:+91-22-26138055">+91-22-26138055</a></p>
+                                            <p><a href="tel:+91-22-46006689">+91-22-46006689</a><br>
+                                                <a href="tel:+91-22-46086690">+91-22-46086690</a><br>
+                                                <a href="tel:+91-22-46086691">+91-22-46086691</a></p>
                                         </div>
 
                                         <div class="col-div col-xs-12  col-lg-7  col-md-6  contact-content" style=" margin-top:40px;">
@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                          <option value="Polyester">
                         Polyester
                         </option>
-                       
+
                       </select></span>
                                         </div>
 
@@ -253,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </div>
 
 
-                                       
+
 
                                         <div class="col-div col-xs-12 submit-area">
                                             <div class="col">
@@ -274,7 +274,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="wpcf7-response-output wpcf7-display-none"></div>
 
                                 </form>
-                                 
+
 
                             </div>
                         </div>
@@ -283,7 +283,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </div>
-  
+
 
     <script type='text/javascript'>
         /* attach a submit handler to the form */

@@ -18,13 +18,13 @@
     <meta property="og:title" content="Optical Brightening Agent Manufacturers - United Specialities" >
     <meta property="og:description"  content="We are a Company dedicated to the manufacturing &amp; marketing of OPTICAL WHITENING AGENTS for the textile industry. United Specialities are your “ONE STOP SHOP” for all your OBAs, FWAs and Luminophore requirements for textile industry. Our products are ECO FRIENDLY &amp; do not contain hazardous chemicals">
     <!-- Open Graph data -->
-    
+
     <!-- Twitter Card data -->
     <meta name="twitter:card" value="summary">
     <meta name="twitter:title" content="Optical Brightening Agent Manufacturers - United Specialities"  >
     <meta name="twitter:description" content="We are a Company dedicated to the manufacturing &amp; marketing of OPTICAL WHITENING AGENTS for the textile industry. United Specialities are your “ONE STOP SHOP” for all your OBAs, FWAs and Luminophore requirements for textile industry. Our products are ECO FRIENDLY &amp; do not contain hazardous chemicals" >
     <!-- Twitter Card data -->
-   
+
     <link href="http://www.valblanc.com/about/" rel="canonical">
     <link rel="alternate" href="http://www.valblanc.com/about/" hreflang="en-in" />
 
@@ -76,6 +76,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 }
 </script>
+<style>
+  .page-content-layouts-section {
+    margin-bottom: 50px;
+  }
+</style>
 </head>
 <body class="home page-template-default page page-id-5">
   <!-- Google Tag Manager (noscript) -->
@@ -148,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1 content-area-layout">
               <p style="margin-top: 20px;">We are a Company dedicated to the manufacturing & marketing of <span style="color:#2a2c74;">OPTICAL WHITENING AGENTS</span> for the textile industry. We are your “ONE STOP SHOP” for all your OBA requirenments.</p>
               <p>With strong commercial and administrative expertise, UNITED has established itself as a manufacturer of quality products that enjoy customer confidence, both in the domestic and international markets.</p>
-              
+
             </div>
             <div class="col-div col-xs-12 col-lg-10 col-lg-offset-1"></div>
           </div>
@@ -166,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-    
+
     <div class="content-only-section">
       <div class="container">
         <div class="row">
@@ -181,51 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-  <div class="content-image-section" id="space">
-    <div class="container">
-      <div class="row" id="dis">
-        <div class="col-md-6">
-          <div class="" id="dis">
-              <div class="col-md-7">
-                <div class="col-div">
-                 <hr>
-                   <h2 class="content-title title-left" id="write">Devansh Vinay Valia</h2>
-                   <h4 class="positon">CEO & Director</h4>
-                    <hr>
-                </div>
-                <div class="col-div content-area-layout">
-                  <p class="box">is a graduate in Business Finance from Bentley University, MA, USA. Thoroughly professional in his approach, he looks at business from a long term perspective. With his self acquired technical expertise, he has ensured Quality consciousness and ethical business practises in the company, a salient factor in United's success. Besides general management, he is also responsible for promoting the Group's products in the International markets.</p>
-              </div>
-              </div>
-              <div class="col-md-5" style="overflow:hidden">
-                <img alt="devansh"  height="300" src="../assets/images/uploads/devansh.jpg">
-              </div>
-          </div>
-            
-        </div>
-        <div class="col-md-6">
-          <div class="" id="dis">
-              <div class="col-md-7">
-                <div class="col-div">
-                <hr>
-                   <h2 class="content-title title-left" id="write">Shaunak Mukesh Mehta</h2>
-                     <h4 class="positon">Director</h4>
-                     <hr>
-                </div>
-                <div class="col-div content-area-layout">
-                  <p class="box">Is a graduate in Business and Finance from Bryant College, Rhode Island, USA. Over time he has a acquired the skills and intellect to conduct business in an organised and professional manner. He is entrusted with purchase, administration and management of the factory.</p>
-              </div>
-              </div>
-              <div class="col-md-5" style="overflow:hidden">
-                <img alt="shaunak"  height="300" src="../assets/images/uploads/shaunak.jpg">
-              </div>
-          </div>
-            
-        </div>
-      </div>
-        
-    </div>
-  </div>
+
 </div>
     <div class="register-interest-form">
       <div class="container">
@@ -241,9 +202,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   <footer class="footer-section" id='main-footer'></footer>
   <script src='../assets/js/bootstrape.js' type='text/javascript'>
-  </script> 
+  </script>
   <script src='../assets/js/jquery-ui.min.js' type='text/javascript'>
-  </script> 
+  </script>
   <script src='../assets/js/slick.min.js' type='text/javascript'>
   </script>
   <?php include "../inqfrm.php";?>

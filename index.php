@@ -409,16 +409,22 @@
                 <div class="col">
                   <div class="col-div col-xs-12">
 
-                    <ul class="cer_ul">
-                      <li><img class="space" src="assets/images/uploads/img-4.png"></li>
+                  <ul class="cer_ul">
+                      <li><img class="space fix" src="assets/images/uploads/img-4.png">
+                        <br>
+                        <a style="text-align: center;font-size: 15px;text-decoration: underline;"
+                href="assets/pdf/ISO USPL valid upto 06.02.2027.jpg" target="_blank"><strong>View Certificate</strong></a>
+                      </li>
+
 
                       <!-- <li>   <img class="space" src="assets/images/uploads/img-9.png"> -->
                       <script language="JavaScript" src="https://dunsregistered.dnb.com"
                         type="text/javascript"></script>
-                      </li>
+                     <!--  </li> -->
 
-                      <li><img class="space" src="assets/images/uploads/img-5.png"></li>
+                      <li><img class="space fix" src="assets/images/uploads/img-5.png"></li>
                     </ul>
+
 
                   </div>
 
@@ -436,10 +442,10 @@
         <div class="col-div col-xs-12 col-xl-10 col-xl-offset-1">
           <ul class="cer_ul">
             <li class="eco-cerli">
-              <img style="width: 100%;height: auto;" class="space" src="assets/images/oeko-tex.webp">
+              <img style="width: 100%;height: auto;" class="space" src="assets/images/oeko-logo.jpg">
               <br><br>
-              <a style="text-align: center;font-size: 18px;text-decoration: underline;"
-                href="/assets/pdf/OEKO TEX - new certificate.pdf" target="_blank"><strong>View Certificate</strong></a>
+               <a style="text-align: center;font-size: 18px;text-decoration: underline;"
+                href="assets/pdf/23.0.97000 Certificate ECO PASSPORT.pdf" target="_blank"><strong>View Certificate</strong></a>
             </li>
           </ul><br><br><br><br>
         </div>

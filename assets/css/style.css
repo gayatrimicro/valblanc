@@ -8396,6 +8396,10 @@ p.priceinfo span.price {
   margin-left: auto;
   /*max-width: 1440px;*/
 }
+/*new css kavita*/
+.fix{
+  display: block;
+}
 @media (min-width: 768px) {
   .register-interest-section .register-interest-content {
     height: 769px;
@@ -9812,7 +9816,10 @@ and (min-device-width: 375px)
     .eco-cerli{
       width: 100% !important;
     }
-
+.fix {
+    display: inline;
+}
+ 
 
   }  
 /*---------End--------------*/
